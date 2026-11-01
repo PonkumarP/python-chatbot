@@ -1,0 +1,39 @@
+# Python
+EXPLANATION.md
+GITHUB_SETUP.md
+GITHUB_UPLOAD_GUIDE.md
+PROJECT_SUMMARY.md
+QUICK_START.md
+SAMPLE_OUTPUT.md
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
